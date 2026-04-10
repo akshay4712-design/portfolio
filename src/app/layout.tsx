@@ -14,13 +14,13 @@ const geist = Geist({
 export const metadata: Metadata = {
   title: "Mangesh Shinde — Product & UX Designer | Portfolio",
   description:
-    "Product & UX Designer with 3+ years of experience designing enterprise SaaS, healthcare, and AI-driven products. View case studies and work.",
-  keywords: ["UX Designer", "Product Designer", "Portfolio", "Mangesh Shinde", "B2B SaaS", "Enterprise UX"],
+    "Mangesh Shinde is a Product & UX Designer based in Pune, India — specialising in enterprise SaaS, healthcare, and AI-driven products. 3+ years turning complex workflows into intuitive experiences.",
+  keywords: ["UX Designer", "Product Designer", "Portfolio", "Mangesh Shinde", "MangeshUX", "B2B SaaS", "Enterprise UX", "Pune", "India"],
   authors: [{ name: "Mangesh Shinde", url: "https://www.linkedin.com/in/mangeshux/" }],
   openGraph: {
     title: "Mangesh Shinde — Product & UX Designer | Portfolio",
     description:
-      "Product & UX Designer with 3+ years of experience designing enterprise SaaS, healthcare, and AI-driven products. View case studies and work.",
+      "Mangesh Shinde is a Product & UX Designer based in Pune, India — specialising in enterprise SaaS, healthcare, and AI-driven products. 3+ years turning complex workflows into intuitive experiences.",
     url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://mangeshux.in",
     siteName: "Mangesh Shinde",
     locale: "en_IN",
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Mangesh Shinde — Product & UX Designer | Portfolio",
     description:
-      "Product & UX Designer with 3+ years of experience designing enterprise SaaS, healthcare, and AI-driven products. View case studies and work.",
+      "Mangesh Shinde is a Product & UX Designer based in Pune, India — specialising in enterprise SaaS, healthcare, and AI-driven products. 3+ years turning complex workflows into intuitive experiences.",
   },
 };
 
