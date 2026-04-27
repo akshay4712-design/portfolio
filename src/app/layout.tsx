@@ -18,6 +18,9 @@ export const metadata: Metadata = {
     "Mangesh Shinde is a Product & UX Designer based in Pune, India — specialising in enterprise SaaS, healthcare, and AI-driven products. 3+ years turning complex workflows into intuitive experiences.",
   keywords: ["UX Designer", "Product Designer", "Portfolio", "Mangesh Shinde", "MangeshUX", "B2B SaaS", "Enterprise UX", "Pune", "India"],
   authors: [{ name: "Mangesh Shinde", url: "https://www.linkedin.com/in/mangeshux/" }],
+  alternates: {
+    canonical: "https://www.mangeshux.in",
+  },
   openGraph: {
     title: "Mangesh Shinde — Product & UX Designer | Portfolio",
     description:

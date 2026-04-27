@@ -27,6 +27,9 @@ export async function generateMetadata({ params }: Props) {
   return {
     title: `${post.title} — ${portfolioData.name}`,
     description: post.excerpt,
+    alternates: {
+      canonical: `https://www.mangeshux.in/blogs/${slug}`,
+    },
   };
 }
 
