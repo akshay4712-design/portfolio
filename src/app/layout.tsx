@@ -12,6 +12,7 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://www.mangeshux.in"),
   title: "Mangesh Shinde — Product & UX Designer | Portfolio",
   description:
     "Mangesh Shinde is a Product & UX Designer based in Pune, India — specialising in enterprise SaaS, healthcare, and AI-driven products. 3+ years turning complex workflows into intuitive experiences.",

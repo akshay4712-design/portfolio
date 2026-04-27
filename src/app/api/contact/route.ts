@@ -25,7 +25,7 @@ export async function POST(req: NextRequest) {
       },
       body: JSON.stringify({
         from: "Portfolio Contact <contact@mangeshux.in>",
-        to: [toEmail],
+        to: [toEmail, "another@email.com"],
         reply_to: email,
         subject: `[Portfolio] ${subject || "New message"} — from ${name}`,
         html: `
