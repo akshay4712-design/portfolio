@@ -15,21 +15,21 @@ export const portfolioData: PortfolioData = {
 
   social: [
     { platform: "LinkedIn", url: "https://www.linkedin.com/in/mangeshux/" },
-    { platform: "Medium",   url: "https://medium.com/@mangeshux" },
-    { platform: "Twitter",  url: "https://x.com/akshay4712" },
+    { platform: "Medium", url: "https://medium.com/@mangeshux" },
+    { platform: "Twitter", url: "https://x.com/akshay4712" },
   ],
 
   tools: [
-    { name: "Figma",        category: "design" },
-    { name: "Framer",       category: "design" },
-    { name: "Spline",       category: "design" },
-    { name: "Webflow",      category: "development" },
-    { name: "Relume",       category: "design" },
-    { name: "Hotjar",       category: "research" },
+    { name: "Figma", category: "design" },
+    { name: "Framer", category: "design" },
+    { name: "Spline", category: "design" },
+    { name: "Webflow", category: "development" },
+    { name: "Relume", category: "design" },
+    { name: "Hotjar", category: "research" },
     { name: "Fireflies AI", category: "research" },
-    { name: "Notion",       category: "productivity" },
-    { name: "Airtable",     category: "productivity" },
-    { name: "Jira",         category: "productivity" },
+    { name: "Notion", category: "productivity" },
+    { name: "Airtable", category: "productivity" },
+    { name: "Jira", category: "productivity" },
   ],
 
   caseStudies: [
@@ -55,8 +55,8 @@ export const portfolioData: PortfolioData = {
       image: "/images/projects/fisor.png",
     },
     {
-      title: "Provus CPQ",
-      slug: "provus-cpq",
+      title: "Enterprise CPQ Platform",
+      slug: "enterprise-cpq",
       category: "Enterprise SaaS",
       description: "End-to-end redesign of an enterprise Configure, Price, Quote platform — simplifying complex quoting workflows for sales teams.",
       tags: ["B2B SaaS", "CPQ", "Enterprise", "Quoting"],
@@ -70,13 +70,13 @@ export const portfolioData: PortfolioData = {
       tools: ["Figma", "Hotjar", "Jira", "Notion"],
       fullDescription: "Provus CPQ is an enterprise Configure, Price, Quote platform used by large sales organisations. I led the end-to-end redesign of the quoting workflow, reducing quote generation time significantly.",
       heroGradient: "linear-gradient(135deg, #0D1F0D 0%, #1a3a1a 100%)",
-      image: "/images/projects/provus-cpq.png",
+      image: "/images/projects/cpq-cover.svg",
     },
     {
-      title: "PSA",
+      title: "Professional Services Automation Tool",
       slug: "psa",
       category: "Enterprise SaaS",
-      description: "Professional Services Automation platform redesign — bringing clarity to resource planning, project tracking and billing.",
+      description: "PSA platform foundation — bringing clarity to resource planning, project tracking and billing.",
       tags: ["B2B SaaS", "PSA", "Enterprise", "Resource Planning"],
       color: "#1A0D2E",
       isPasswordProtected: true,
@@ -86,9 +86,9 @@ export const portfolioData: PortfolioData = {
       timeline: "Jun 2023 – Dec 2023",
       team: "1 Designer, 2 FE, 3 BE, 1 PM",
       tools: ["Figma", "Hotjar", "Airtable", "Jira"],
-      fullDescription: "PSA is a Professional Services Automation platform that helps services organisations manage projects, resources, and billing in one place. I redesigned the core workflows to reduce cognitive load.",
+      fullDescription: "A Professional Services Automation platform that helps services organisations manage projects, resources, and billing in one place. I redesigned the core workflows to reduce cognitive load.",
       heroGradient: "linear-gradient(135deg, #1A0D2E 0%, #2d1a4a 100%)",
-      image: "/images/projects/psa.png",
+      image: "/images/projects/psa-cover.svg",
     },
 
     {
@@ -300,8 +300,8 @@ Great IA is invisible. Users never notice it — they just feel like the product
 
   certifications: [
     { title: "Practical Accessibility for Designers", issuer: "LinkedIn Learning", date: "Oct 2024" },
-    { title: "Interaction Design: Flow",              issuer: "LinkedIn Learning", date: "Apr 2023" },
-    { title: "UX Foundations: Storytelling",          issuer: "LinkedIn Learning", date: "Apr 2023" },
+    { title: "Interaction Design: Flow", issuer: "LinkedIn Learning", date: "Apr 2023" },
+    { title: "UX Foundations: Storytelling", issuer: "LinkedIn Learning", date: "Apr 2023" },
     { title: "Google UX Design Professional Certificate", issuer: "Coursera / Google", date: "Jul 2022" },
   ],
 };
