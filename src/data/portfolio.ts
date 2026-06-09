@@ -70,7 +70,7 @@ export const portfolioData: PortfolioData = {
       tools: ["Figma", "Hotjar", "Jira", "Notion"],
       fullDescription: "Provus CPQ is an enterprise Configure, Price, Quote platform used by large sales organisations. I led the end-to-end redesign of the quoting workflow, reducing quote generation time significantly.",
       heroGradient: "linear-gradient(135deg, #0D1F0D 0%, #1a3a1a 100%)",
-      image: "/images/projects/cpq-cover.svg",
+      image: "/images/projects/cpq_cover_image.svg",
     },
     {
       title: "Professional Services Automation Tool",
@@ -88,7 +88,7 @@ export const portfolioData: PortfolioData = {
       tools: ["Figma", "Hotjar", "Airtable", "Jira"],
       fullDescription: "A Professional Services Automation platform that helps services organisations manage projects, resources, and billing in one place. I redesigned the core workflows to reduce cognitive load.",
       heroGradient: "linear-gradient(135deg, #1A0D2E 0%, #2d1a4a 100%)",
-      image: "/images/projects/psa-cover.svg",
+      image: "/images/projects/psa_cover_image.svg",
     },
 
     {
