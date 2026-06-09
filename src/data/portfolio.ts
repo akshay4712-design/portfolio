@@ -68,9 +68,9 @@ export const portfolioData: PortfolioData = {
       timeline: "Jan 2024 – Present",
       team: "2 Designers, 3 FE, 4 BE, 1 PM",
       tools: ["Figma", "Hotjar", "Jira", "Notion"],
-      fullDescription: "Provus CPQ is an enterprise Configure, Price, Quote platform used by large sales organisations. I led the end-to-end redesign of the quoting workflow, reducing quote generation time significantly.",
+      fullDescription: "An enterprise Configure, Price, Quote platform used by large sales organisations. I led the end-to-end redesign of the quoting workflow, reducing quote generation time significantly.",
       heroGradient: "linear-gradient(135deg, #0D1F0D 0%, #1a3a1a 100%)",
-      image: "/images/projects/cpq_cover_image.svg",
+      image: "/images/projects/cpq-cover.svg",
     },
     {
       title: "Professional Services Automation Tool",
