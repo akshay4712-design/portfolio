@@ -70,7 +70,7 @@ export const portfolioData: PortfolioData = {
       tools: ["Figma", "Hotjar", "Jira", "Notion"],
       fullDescription: "An enterprise Configure, Price, Quote platform used by large sales organisations. I led the end-to-end redesign of the quoting workflow, reducing quote generation time significantly.",
       heroGradient: "linear-gradient(135deg, #0D1F0D 0%, #1a3a1a 100%)",
-      image: "/images/projects/cpq-cover.svg",
+      image: "/images/projects/cpq_cover_image.png",
     },
     {
       title: "Professional Services Automation Tool",
